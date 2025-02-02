@@ -1,6 +1,11 @@
 # Basic-Batch
-Programas básico para principiantes en Batch.
+
+Programas básico para principiantes en Batch. 
+
+
 --------------(1 , 1.1) ---------------
+
+
 Usted quiere pasar archivos entre dos rutas, pero tiene muchos, desea excluir pocos de ésta selección. 
 
 ![image](https://github.com/user-attachments/assets/1019ad84-4e6b-4ba0-ae42-b1e2b6221270)
