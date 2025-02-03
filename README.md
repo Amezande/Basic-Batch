@@ -24,3 +24,8 @@ Y notará el estado
 ![image](https://github.com/user-attachments/assets/1fe2e0b2-5eeb-4032-b5f1-e5b65677ee67)
 
 Ahora puede comprobar el estado de sus archivos
+
+![image](https://github.com/user-attachments/assets/9d2ca9a2-12ea-4ad2-a023-27eb8642b706)
+
+Listo!
+
