@@ -29,3 +29,7 @@ Ahora puede comprobar el estado de sus archivos
 
 Listo!
 
+----------------(   2   )----------------------
+
+Usted quiere analizar la respuesta de una o varias de sus máquinas, puede hacerlo con ping
+
